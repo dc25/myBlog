@@ -10,6 +10,8 @@ twitter_username: dc1234
 github_username:  dc25
 google_analytics:  UA-62766723-1
 
+github_comments_repository: dc25/myBlog-comments
+
 # Set this to a github repository to be used to host comments.
 # github_comments_repository:  githubId/repositoryName
 
