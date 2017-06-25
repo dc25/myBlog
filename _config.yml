@@ -8,6 +8,7 @@ url: "http://dc25.github.io" # the base hostname & protocol for your site
 
 twitter_username: dc1234
 github_username:  dc25
+google_analytics:  UA-62766723-1
 
 # Set this to a github repository to be used to host comments.
 # github_comments_repository:  githubId/repositoryName
