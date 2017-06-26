@@ -43,11 +43,11 @@ The code consists of four new files and two modifications:
     * `_sass/minima.scss`
 
 ### Reference Implementation
-The repository [dc25/minimaWithGithubComments][minimaCommented] is a clone of the [jekyll/minima][minima] repository modified to allow Github comments.  In addition to the Github comments changes, [the blog][minimaBlog] contains a [single post][minimaBlogPost] that shares the same comments as this post.   
+The repository [dc25/minimaWithGithubComments][minimaCommented] is a clone of the [jekyll/minima][minima] repository modified to allow Github comments.  In addition to the above Github comments changes, [the blog][minimaBlog] contains a [single post][minimaBlogPost] that shares the same comments as this post.   
 
 [minimaCommented]: http://github.com/dc25/minimaWithGithubComments "github repository for minimaWithGithubComments"
 [minima]: https://github.com/jekyll/minima "github repository for minima"
-[minimaBlog]: https:dc25.github.io/minimaWithGithubComments "Click to see the blog"
+[minimaBlog]: https://dc25.github.io/minimaWithGithubComments "Click to see the blog"
 [minimaBlogPost]: https://dc25.github.io/minimaWithGithubComments/2017/06/25/example-of-blog-post-with-github-comments.html "Click to see the post"
 
 ### Configuration
