@@ -24,7 +24,7 @@ A limitation of the implementaion was that it was specific to the [Hugo static s
 
 ### Jekyll
 
-[This blog][myBlog] is based on Jekyll and includes the changes needed to support use of Github comments.  This post has Github comments enabled so that the comments shown below are from a Github issue.  To add to those comments, click the "Post a comment on Github" button below.  This will take you to a Github page at which anyone can add a comment to the discussion that shows up on this page.  Github login is required to post a comment.
+[This blog][myBlog] is based on Jekyll and includes the changes needed to support use of Github comments.  This post has Github comments enabled so that the comments shown below are from a Github issue.  To add to those comments, click the "Post a comment on Github" button below.  This will take you to a Github page at which anyone logged in to Github can add a comment to the discussion that shows up on this page.  
 
 [myBlog]: https:dc25.github.io/myBlog "Why bother?"
 
