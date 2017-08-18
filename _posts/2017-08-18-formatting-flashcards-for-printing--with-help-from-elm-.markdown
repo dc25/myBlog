@@ -3,6 +3,7 @@ layout: post
 title: "Formatting flashcards for printing (with help from Elm)"
 date: 2017-08-18 20:35:50 +0000
 published: true
+github_comments_issueid: "3"
 tags:
 ---
 As part of an effort to improve my Spanish vocabulary I wanted to print some English/Spanish flashcards.  My hope was to create a comma separated value file containing the vocabulary and then (somehow) transform that data into a printable format that I would then send to my printer to print multiple cards onto cardstock (front and back).  Once printed I would cut the cardstock up into individual cards.
