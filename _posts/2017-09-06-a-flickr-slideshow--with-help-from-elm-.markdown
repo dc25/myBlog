@@ -28,8 +28,8 @@ and clicking on this link ...
 
 The content produced by these pages is intended to work well with html inlining so these slideshows can be embedded in a web page as shown below.
 
-[//]: # <iframe width="850" height="650" src="//dc25.github.io/askMetaGallery/#/dave20477/" frameborder="0" allowfullscreen></iframe>
-<iframe width="850" height="650" src="//172.17.0.2:8000/#/dave20477/" frameborder="0" allowfullscreen></iframe>
+<iframe width="850" height="650" src="//dc25.github.io/askMetaGallery/#/dave20477/" frameborder="0" allowfullscreen></iframe>
+[//]: # <iframe width="850" height="650" src="//172.17.0.2:8000/#/dave20477/" frameborder="0" allowfullscreen></iframe>
 
 The source code for this web-app is [published on github][9].
 
