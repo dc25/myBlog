@@ -3,6 +3,7 @@ layout: post
 title: "A flickr slideshow (with help from Elm)"
 date: 2017-09-06 19:27:15 +0000
 published: true
+github_comments_issueid: "4"
 tags:
 ---
 
