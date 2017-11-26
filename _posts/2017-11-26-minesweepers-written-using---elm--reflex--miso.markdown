@@ -3,8 +3,8 @@ layout: post
 title: "Minesweepers written using:  Elm, Reflex, Miso"
 date: 2017-11-26 04:18:07 +0000
 published: true
+github_comments_issueid: "5"
 tags: Haskell Reflex Elm Miso
-tags:
 ---
 
 As a learning experience, I implemented the [classic minesweeper game][minesweeperGame] in Haskell with the [Reflex toolkit][reflex], in Haskell using [the Miso toolkit][miso], and in [Elm][elm].
