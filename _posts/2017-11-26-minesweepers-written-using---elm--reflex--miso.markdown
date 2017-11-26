@@ -42,13 +42,11 @@ Here are links to live versions of each:
 
 The code for each version is as similar to the others as I could make it without sacrificing performance.
 
-The Reflex version was the first implementation.  It's a little sluggish.  I tried a variety of approaches - the current one was the most responsive.
+The Reflex version was the first implementation.  I tried a variety of approaches - the current one was the most responsive.
 
-The Elm version was a port of the Reflex version.
+The Elm version was a port of the Reflex version.  It's the most responsive of the three and also the quickest to load.
 
-The Miso version was a port of the Elm version with some code from the Reflex version brought in and then changed as needed to get it working.
+The Miso version was a port of the Elm version with some code from the Reflex version brought in and then changed as needed to get it working.Programming in Miso feels very similar to programming in Elm.
 
 Along the way I made small changes to all three of them to keep the code as similar as possible across implementations.
-
-One of the last steps was to run a code formatter for each codeset.  For elm, I used elm-format and for haskell I used "hindent --indent-size 4"
 
