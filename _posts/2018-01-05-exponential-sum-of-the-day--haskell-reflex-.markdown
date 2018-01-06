@@ -3,6 +3,8 @@ layout: post
 title: "Exponential Sum Of the Day (Haskell/Reflex)"
 date: 2018-01-05 21:16:26 +0000
 published: true
+github_comments_issueid: "6"
+tags: Haskell Reflex Javascript
 tags:
 ---
 
